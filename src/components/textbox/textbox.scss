@@ -1,0 +1,14 @@
+.textbox {
+  input {
+    border: solid 1px;
+    border-radius: 4px;
+  }
+
+  label {
+    display: block;
+  }
+
+  .error {
+    border-color: red;
+  }
+}
